@@ -403,3 +403,12 @@ h6 {
 /*# sourceMappingURL=style.css.map */
 
 
+.important {
+  align: center;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+  font-size: 100px;
+}
